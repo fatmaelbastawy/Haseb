@@ -1,0 +1,33 @@
+footer{
+   padding: 0;
+   margin: 0;
+   /* background-color: #bbbaba; */
+}
+
+.email{
+ size: 5px;
+}
+
+.menu ul li {
+    list-style: none;
+    text-decoration: none;
+    list-style-type: none;
+}
+.menu ul li a{
+    text-decoration: none;
+    color:#ffff
+}
+.logo img{
+    width:150px;
+    height: 150px;
+    padding: 0;
+    margin: 0;
+}
+a{
+    cursor: pointer;
+}
+.menu ul li a.active{
+    color: #0248AD;
+    font-weight: bold;
+  
+  }
